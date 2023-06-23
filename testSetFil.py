@@ -1,3 +1,6 @@
+#This py file is for testing purpose for our pretrained model.
+#after analyzing this model,it gives positive and negative predictions as 1 and 0.
+
 from setfit import SetFitModel
 from sentence_transformers import InputExample, SentenceTransformer, models
 

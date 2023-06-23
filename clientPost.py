@@ -5,7 +5,7 @@ url = 'http://127.0.0.1:8000/analyze'
 
 # Prepare the JSON payload
 # You can check your custom outputs by giving your own line
-payLoadLines = ["this is a negative line","this is the positive line","I am ok with this task"]
+payLoadLines = ["this is a positive line",""]
 payload = {
     "text": payLoadLines
 }
